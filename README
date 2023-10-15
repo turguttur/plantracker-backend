@@ -1,0 +1,5 @@
+- dev container created with compose file node and postgresql
+- install express and nodemon package
+- install npm install eslint eslint-config-prettier prettier –-save-dev
+- configure eslint with eslint --init
+- then eslintrc and prettierrc file configurations with 'npm init @eslint/config'
