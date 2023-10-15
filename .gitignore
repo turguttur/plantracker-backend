@@ -16,6 +16,7 @@
 !.eslintignore
 !.eslintrc.js
 !.eslintrc.yaml
+!.eslintrc.json
 !.gitattributes
 !.github
 !.gitignore
@@ -24,6 +25,8 @@
 !.mailmap
 !.nycrc
 !.yamllint.yaml
+!.prettierrc.js
+!.prettierrc.yaml
 !.prettierrc.json
 
 # === Rules for root dir ===
